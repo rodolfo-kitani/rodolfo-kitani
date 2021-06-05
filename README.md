@@ -4,13 +4,15 @@ Me chamo **Rodolfo Santana**, sou um **Desenvolvedor Full Stack Jr.** com forma�
 
 Tenho grande interesse em programação, tecnologia e mercado financeiro e antes de realizar minha transição de carreira e me tornar um desenvolvedor eu trabalhava organizando cursos e eventos, onde tive passagens pela área de finanças, gestão de pessoas e marketing.
 
+## Caso queira entrar em contato 💬 me adicione no linkedin
+
 Estou procurando oportunidades como Desenvolvedor Full Stack Jr ou Trainee.
 
 <a href="http://linkedin.com/in/rodolfo-santana-57766b47/" target="_blank" rel="noopener noreferrer">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" height="60" width="40" padding-bottom="5"/>
 </a>
 
-Tenho experiências nas seguintes tecnologias:
+## Tenho experiências nas seguintes tecnologias:
 
 - Node.js
 - Express
