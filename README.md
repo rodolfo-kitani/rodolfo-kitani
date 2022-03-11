@@ -18,10 +18,12 @@ Trabalho como desenvolvedor backend na Fasters.com.br utilizando principalmente 
 - Express
 - Nest.js
 - MySQL
+- PostgreSQL
 - MongoDb
 - Git
 - MVC
 - JS
+- TypeScript
 - React
 - Vue.js
 - HTML + CSS
