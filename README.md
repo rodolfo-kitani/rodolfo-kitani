@@ -1,7 +1,6 @@
 # Olá mundo 🖖
 
-Me chamo **Rodolfo Santana**, atualmente trabalho como desenvolvedor backend utilizando Node, Express e Nest. Estou estudando arquitetura e boas práticas de desenvolvimento, em especial Clean Code, e estudando Java e Spring Boot.
-
+Me chamo **Rodolfo Santana**, atualmente trabalho como desenvolvedor backend utilizando Node, Express e Nest. Atualmente estou estudando C# e Java.
 Minha formação foi pela *Digital House Brasil* 🧑‍🎓 e estou cursando Sistemas da Informação pela Faculdade Anhembi Morumbi.
 
 Tenho grande interesse em programação, tecnologia e mercado financeiro e antes de realizar minha transição de carreira e me tornar um desenvolvedor eu trabalhava organizando cursos e eventos, onde tive passagens pela área de finanças, gestão de pessoas e marketing.
@@ -20,10 +19,14 @@ Tenho grande interesse em programação, tecnologia e mercado financeiro e antes
     - Nest.js
     - Strapi
 - TypeScript
+- Java
+- C#
 - Ruby
 - MySQL
 - PostgreSQL
+- SQL
 - MongoDb
+- TypeORM
 - Git
 - Docker
 - Cloud: AWS / Azure
